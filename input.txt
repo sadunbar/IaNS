@@ -1,0 +1,2 @@
+Another way (depending on your actual needs): If you want to pop the first n characters
+ and save both the popped characters and the modified string:
